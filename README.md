@@ -59,7 +59,7 @@ The CMD launcher is the recommended entry point. It starts PowerShell with a pro
 
 ![Windows Feature Version Manager detecting Windows 10 and exiting without making changes](screenshots/windows-10-unsupported.png)
 
-### Set / Change Target Feature Version
+### Menu Options
 
 Select option `1` and enter the desired Windows 11 feature release, for example:
 
