@@ -38,6 +38,13 @@ The CMD launcher is the recommended entry point. It starts PowerShell with a pro
 
 ## Main Menu
 
+```text
+[1] Set / Change Target Feature Version
+[2] Remove Target Feature Version Policy (MS Defaults)
+[3] Refresh / Show Detailed Status
+[Q] Quit
+```
+
 ## Screenshots
 
 ### Default Policy State
@@ -51,13 +58,6 @@ The CMD launcher is the recommended entry point. It starts PowerShell with a pro
 ### Windows 10 Unsupported
 
 ![Windows Feature Version Manager detecting Windows 10 and exiting without making changes](screenshots/windows-10-unsupported.png)
-
-```text
-[1] Set / Change Target Feature Version
-[2] Remove Target Feature Version Policy (MS Defaults)
-[3] Refresh / Show Detailed Status
-[Q] Quit
-```
 
 ### Set / Change Target Feature Version
 
