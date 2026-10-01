@@ -38,6 +38,20 @@ The CMD launcher is the recommended entry point. It starts PowerShell with a pro
 
 ## Main Menu
 
+## Screenshots
+
+### Default Policy State
+
+![Windows Feature Version Manager showing the default Not Configured policy state](screenshots/menu-initial.png)
+
+### Configured Target Feature Version
+
+![Windows Feature Version Manager showing a configured Windows 11 Target Feature Update policy](screenshots/menu-configured.png)
+
+### Windows 10 Unsupported
+
+![Windows Feature Version Manager detecting Windows 10 and exiting without making changes](screenshots/windows-10-unsupported.png)
+
 ```text
 [1] Set / Change Target Feature Version
 [2] Remove Target Feature Version Policy (MS Defaults)
